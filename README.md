@@ -21,3 +21,7 @@ This is a simple input box animation made to make websites more attractive. The 
    npm i
 3. run the code
    npm run dev
+
+
+https://github.com/user-attachments/assets/42471888-2ae1-405a-9b55-4e4ee7d29ff6
+
